@@ -48,3 +48,9 @@
     Taoyu Su, Jiawei Sheng, Duohe Ma, **Xiaodong Li**, Juwei Yue, Mengxiao Song, Yingkai Tang, Tingwen Liu
     
     *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2025)*
+
+- [COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence](https://arxiv.org/pdf/2512.04563)
+
+    Zefeng Zhang, Xiangzhao Hao, Hengzhu Tang, Zhenyu Zhang, Jiawei Sheng, **Xiaodong Li**, Zhenyang Li, Li Gao, Daiting Shi, Dawei Yin, Tingwen Liu
+    
+    *arXiv:2512.04563*
