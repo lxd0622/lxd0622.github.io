@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.01*: 🎉 Our paper "S$^2$CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation" has been accepted by WWW 2026!
 - *2025.11*: 🎉 Our paper "FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation" has been accepted by KDD 2026!
 - *2025.11*: 🎉 Our paper "From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation" has been accepted by KDD 2026!
 - *2025.05*: 🎉 Our paper "SOTOPIA-$\Omega$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents" has been accepted by ACL 2025 (Main)!

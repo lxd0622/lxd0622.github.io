@@ -25,6 +25,12 @@
     
     *The 41st IEEE International Conference on Data Engineering (**ICDE 2025**)*
 
+- [S$^2$CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation]()
+
+    **Xiaodong Li**, Juwei Yue, Xinghua Zhang, Jiawei Sheng, Wenyuan Zhang, Taoyu Su, Zefeng Zhang, Tingwen Liu
+
+    *The ACM Web Conference (**WWW 2026**)*
+
 - [CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process](https://dl.acm.org/doi/pdf/10.1145/3616855.3635794)
     
     **Xiaodong Li**, Jiawei Sheng, Jiangxia Cao, Wenyuan Zhang, Quangang Li, Tingwen Liu
