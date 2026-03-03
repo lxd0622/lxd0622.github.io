@@ -13,7 +13,7 @@
 
     *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)*
 
-- [From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation]()
+- [From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation](https://arxiv.org/pdf/2602.23132)
 
     Ruochen Yang\*, **Xiaodong Li\***, Jiawei Sheng, Jiangxia Cao, Xinkui Lin, Shen Wang, Shuang Yang, Zhaojie Liu, Tingwen Liu
 
@@ -54,6 +54,12 @@
     Taoyu Su, Jiawei Sheng, Duohe Ma, **Xiaodong Li**, Juwei Yue, Mengxiao Song, Yingkai Tang, Tingwen Liu
     
     *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025**)*
+
+- [Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion]()
+
+    Jiawei Sheng, Taoyu Su, Xixun Lin, **Xiaodong Li**, Tingwen Liu
+    
+    *The ACM Web Conference (**WWW 2026**)*
 
 - [COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence](https://arxiv.org/pdf/2512.04563)
 
