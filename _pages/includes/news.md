@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.02*: 🎉 Our paper "COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence" has been accepted by CVPR 2026!
 - *2026.01*: 🎉 Our paper "S$^2$CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation" has been accepted by WWW 2026!
 - *2026.01*: 🎉 Our paper "Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion" has been accepted by WWW 2026!
 - *2025.11*: 🎉 Our paper "FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation" has been accepted by KDD 2026!

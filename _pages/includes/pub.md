@@ -65,4 +65,4 @@
 
     Zefeng Zhang, Xiangzhao Hao, Hengzhu Tang, Zhenyu Zhang, Jiawei Sheng, **Xiaodong Li**, Zhenyang Li, Li Gao, Daiting Shi, Dawei Yin, Tingwen Liu
     
-    *arXiv:2512.04563*
+    *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026**)*
