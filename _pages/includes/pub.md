@@ -41,7 +41,7 @@
 
     Wenyuan Zhang, Tianyun Liu, Mengxiao Song, **Xiaodong Li**, Tingwen Liu
     
-    *The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025 Main**)*
+    *The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)*
 
 - [Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations](https://arxiv.org/pdf/2505.23014)
 

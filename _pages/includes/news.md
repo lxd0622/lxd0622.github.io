@@ -4,7 +4,7 @@
 - *2026.01*: 🎉 Our paper "Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion" has been accepted by WWW 2026!
 - *2025.11*: 🎉 Our paper "FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation" has been accepted by KDD 2026!
 - *2025.11*: 🎉 Our paper "From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation" has been accepted by KDD 2026!
-- *2025.05*: 🎉 Our paper "SOTOPIA-$\Omega$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents" has been accepted by ACL 2025 (Main)!
+- *2025.05*: 🎉 Our paper "SOTOPIA-$\Omega$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents" has been accepted by ACL 2025!
 - *2025.05*: 🎉 Our paper "Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations" has been accepted by ICML 2025!
 - *2025.04*: 🎉 Our paper "Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective" has been accepted by SIGIR 2025!
 - *2025.03*: 🎉 Our paper "Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users" has been accepted by ICDE 2025!
