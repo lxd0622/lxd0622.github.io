@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaodong Li\\李晓东"
+  name             : "Xiaodong Li \\ 李晓东"
   avatar           : "images/lxd.png"
   # bio              : "Lorem ipsum College"
   location         : "Beijing, China"
