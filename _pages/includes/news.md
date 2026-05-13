@@ -1,6 +1,6 @@
 # 🔥 News
 - *2026.05*: 🎉 I have successfully defended my Ph.D. dissertation, Research on Key Techniques of Cold-Start Cross-Domain
-Recommendation Based on User Preference Transfer.
+Recommendation Based on User Preference Transfer!
 - *2026.02*: 🎉 One paper has been accepted by CVPR 2026!
 - *2026.01*: 🎉 Two papers have been accepted by WWW 2026!
 - *2025.11*: 🎉 Two papers have been accepted by KDD 2026!
