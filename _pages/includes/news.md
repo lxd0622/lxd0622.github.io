@@ -1,10 +1,12 @@
 # 🔥 News
+- *2026.06*: 🎉 I was awarded the President Excellence Scholarship of Chinese Academy of Sciences!
+- *2026.06*: 🎉 I was awarded the Outstanding Graduates of University of Chinese Academy of Sciences!
 - *2026.05*: 🎉 I have successfully defended my Ph.D. dissertation!
 - *2026.02*: 🎉 One paper has been accepted by CVPR 2026!
 - *2026.01*: 🎉 Two papers have been accepted by WWW 2026!
 - *2025.11*: 🎉 Two papers have been accepted by KDD 2026!
 - *2025.10*: 🎉 I was awarded the National Scholarship for Doctoral Students!
-- *2025.10*: 🎉 I was awarded the Presidential Scholarship of Institute of Information Engineering!
+- *2025.10*: 🎉 I was awarded the President Excellence Scholarship of Institute of Information Engineering!
 - *2025.05*: 🎉 One paper has been accepted by ACL 2025!
 - *2025.05*: 🎉 One paper has been accepted by ICML 2025!
 - *2025.04*: 🎉 One paper has been accepted by SIGIR 2025!
