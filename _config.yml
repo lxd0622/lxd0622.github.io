@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaodong Li (李晓东)"
-description              : "Ph.D. Candidate at Chinese Academy of Sciences "
+description              : "Algorithm Engineer"
 repository               : "lxd0622/lixiaodong.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=DEwUaXIAAAAJ&hl=zh-CN"
-  email            : "lixiaodong@iie.ac.cn"
+  email            : "lxd0622@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
