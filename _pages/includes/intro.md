@@ -1,5 +1,5 @@
 
-I am an algorithm engineer at Alibaba Group, focusing on RecSys and LLMs. I received my Ph.D. from <a href="https://www.iie.ac.cn/">Institute of Information Engineering, Chinese Academy of Sciences</a>, supervised by Prof. <a href="https://liutingwen.ac.cn/">Tingwen Liu</a>. 
+I am an algorithm engineer at Alibaba Group, focusing on RecSys and LLMs. Before that, I received my Ph.D. from <a href="https://www.iie.ac.cn/">Institute of Information Engineering, Chinese Academy of Sciences</a>, supervised by Prof. <a href="https://liutingwen.ac.cn/">Tingwen Liu</a>. 
 
 <!-- I've also interned at <a href="https://www.bytedance.com/zh/">ByteDance (TikTok)</a>, <a href="https://www.kuaishou.com/new-reco">Kuaishou</a> and <a href="https://research.baidu.com/">Baidu</a>. -->
 
