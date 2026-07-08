@@ -7,6 +7,8 @@
 
     *The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)*
 
+    [Code](https://github.com/lxd0622/DMCDR)
+
 - [FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation](https://arxiv.org/pdf/2502.09375)
 
     **Xiaodong Li**, Ruochen Yang, Shuang Wen, Shen Wang, Yueyang Liu, Guoquan Wang, Weisong Hu, Qiang Luo, Jiawei Sheng, Tingwen Liu, Jiangxia Cao, Shuang Yang, Zhaojie Liu
@@ -19,6 +21,8 @@
 
     *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)*
 
+    [Code](https://github.com/OrchidViolet/FatsMB)
+
 - [Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e092/26FZCjdZdlK)
 
     **Xiaodong Li**, Jiawei Sheng, Jiangxia Cao, Xinghua Zhang, Wenyuan Zhang, Yong Sun, Shirui Pan, Zhihong Tian, Tingwen Liu
@@ -30,6 +34,8 @@
     **Xiaodong Li**, Juwei Yue, Xinghua Zhang, Jiawei Sheng, Wenyuan Zhang, Taoyu Su, Zefeng Zhang, Tingwen Liu
 
     *The ACM Web Conference (**WWW 2026**)*
+
+    [Code](https://github.com/lxd0622/S2CDR)
 
 - [CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process](https://dl.acm.org/doi/pdf/10.1145/3616855.3635794)
     
