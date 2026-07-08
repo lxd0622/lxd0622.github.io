@@ -7,7 +7,7 @@
 
     *The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)*
 
-    [PDF](https://arxiv.org/pdf/2501.11671) | [Code](https://github.com/lxd0622/DMCDR)
+    [PDF](https://arxiv.org/pdf/2501.11671) \| [Code](https://github.com/lxd0622/DMCDR)
 
 - **FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation**
 
