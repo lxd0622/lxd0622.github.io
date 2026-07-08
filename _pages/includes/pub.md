@@ -1,74 +1,90 @@
 
 # 📝 Publications 
 
-- [Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation](https://arxiv.org/pdf/2501.11671)
+- **Exploring Preference-Guided Diffusion Model for Cross-Domain Recommendation**
 
     **Xiaodong Li**, Hengzhu Tang, Jiawei Sheng, Xinghua Zhang, Li Gao, Suqi Cheng, Dawei Yin, Tingwen Liu
 
     *The 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025**)*
 
-    [Code](https://github.com/lxd0622/DMCDR)
+    [PDF](https://arxiv.org/pdf/2501.11671) | [Code](https://github.com/lxd0622/DMCDR)
 
-- [FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation](https://arxiv.org/pdf/2502.09375)
+- **FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation**
 
     **Xiaodong Li**, Ruochen Yang, Shuang Wen, Shen Wang, Yueyang Liu, Guoquan Wang, Weisong Hu, Qiang Luo, Jiawei Sheng, Tingwen Liu, Jiangxia Cao, Shuang Yang, Zhaojie Liu
 
     *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)*
 
-- [From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation](https://arxiv.org/pdf/2602.23132)
+    [PDF](https://arxiv.org/pdf/2502.09375)
+
+- **From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation**
 
     Ruochen Yang\*, **Xiaodong Li\***, Jiawei Sheng, Jiangxia Cao, Xinkui Lin, Shen Wang, Shuang Yang, Zhaojie Liu, Tingwen Liu
 
     *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)*
 
-    [Code](https://github.com/OrchidViolet/FatsMB)
+    [PDF](https://arxiv.org/pdf/2602.23132)[Code](https://github.com/OrchidViolet/FatsMB)
 
-- [Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users](https://www.computer.org/csdl/proceedings-article/icde/2025/360300e092/26FZCjdZdlK)
+- **Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users**
 
     **Xiaodong Li**, Jiawei Sheng, Jiangxia Cao, Xinghua Zhang, Wenyuan Zhang, Yong Sun, Shirui Pan, Zhihong Tian, Tingwen Liu
     
     *The 41st IEEE International Conference on Data Engineering (**ICDE 2025**)*
 
-- [S$^2$CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation]()
+    [PDF](https://arxiv.org/pdf/2604.25732) | [Code](https://github.com/lxd0622/NF-NPCDR)
+
+- **S$^2$CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation**
 
     **Xiaodong Li**, Juwei Yue, Xinghua Zhang, Jiawei Sheng, Wenyuan Zhang, Taoyu Su, Zefeng Zhang, Tingwen Liu
 
     *The ACM Web Conference (**WWW 2026**)*
 
-    [Code](https://github.com/lxd0622/S2CDR)
+    [PDF](https://dl.acm.org/doi/pdf/10.1145/3774904.3792189) | [Code](https://github.com/lxd0622/S2CDR)
 
-- [CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process](https://dl.acm.org/doi/pdf/10.1145/3616855.3635794)
+- **CDRNP: Cross-Domain Recommendation to Cold-Start Users via Neural Process**
     
     **Xiaodong Li**, Jiawei Sheng, Jiangxia Cao, Wenyuan Zhang, Quangang Li, Tingwen Liu
     
     *The 17th ACM International Conference on Web Search and Data Mining (**WSDM 2024**)*
 
-- [SOTOPIA-$\Omega$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents](https://arxiv.org/pdf/2502.15538)
+    [PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635794)
+
+- **SOTOPIA-$\Omega$: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents**
 
     Wenyuan Zhang, Tianyun Liu, Mengxiao Song, **Xiaodong Li**, Tingwen Liu
     
     *The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL 2025**)*
 
-- [Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations](https://arxiv.org/pdf/2505.23014)
+    [PDF](https://arxiv.org/pdf/2502.15538)
+
+- **Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations**
 
     Juwei Yue, Haikuo Li, Jiawei Sheng, **Xiaodong Li**, Taoyu Su, Tingwen Liu, Li Guo
     
     *The Forty-Second International Conference on Machine Learning (**ICML 2025**)*
 
-- [Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective](https://arxiv.org/pdf/2504.19458)
+    [PDF](https://arxiv.org/pdf/2505.23014)
+
+- **Mitigating Modality Bias in Multi-modal Entity Alignment from a Causal Perspective**
 
     Taoyu Su, Jiawei Sheng, Duohe Ma, **Xiaodong Li**, Juwei Yue, Mengxiao Song, Yingkai Tang, Tingwen Liu
     
     *The 48th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2025**)*
 
-- [Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion]()
+    [PDF](https://arxiv.org/pdf/2504.19458)
+
+- **Conditional Diffusion Guided Knowledge Transfer for Multi-Domain Knowledge Graph Completion**
 
     Jiawei Sheng, Taoyu Su, Xixun Lin, **Xiaodong Li**, Tingwen Liu
     
     *The ACM Web Conference (**WWW 2026**)*
 
-- [COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence](https://arxiv.org/pdf/2512.04563)
+    [PDF](https://dl.acm.org/doi/pdf/10.1145/3774904.3792252)
+
+- **COOPER: A Unified Model for Cooperative Perception and Reasoning in Spatial Intelligence**
 
     Zefeng Zhang, Xiangzhao Hao, Hengzhu Tang, Zhenyu Zhang, Jiawei Sheng, **Xiaodong Li**, Zhenyang Li, Li Gao, Daiting Shi, Dawei Yin, Tingwen Liu
     
     *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2026**)*
+
+    [PDF](https://arxiv.org/pdf/2512.04563)
