@@ -13,7 +13,7 @@
 
     *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)*
 
-- **From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation** [PDF](https://arxiv.org/pdf/2602.23132)[Code](https://github.com/OrchidViolet/FatsMB)
+- **From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation** [PDF](https://arxiv.org/pdf/2602.23132) \| [Code](https://github.com/OrchidViolet/FatsMB)
 
     Ruochen Yang\*, **Xiaodong Li\***, Jiawei Sheng, Jiangxia Cao, Xinkui Lin, Shen Wang, Shuang Yang, Zhaojie Liu, Tingwen Liu
 
