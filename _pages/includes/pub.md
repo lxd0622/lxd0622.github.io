@@ -19,13 +19,13 @@
 
     *The 32st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2026**)*
 
-- **Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users** [PDF](https://arxiv.org/pdf/2604.25732) | [Code](https://github.com/lxd0622/NF-NPCDR)
+- **Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users** [PDF](https://arxiv.org/pdf/2604.25732) \| [Code](https://github.com/lxd0622/NF-NPCDR)
 
     **Xiaodong Li**, Jiawei Sheng, Jiangxia Cao, Xinghua Zhang, Wenyuan Zhang, Yong Sun, Shirui Pan, Zhihong Tian, Tingwen Liu
     
     *The 41st IEEE International Conference on Data Engineering (**ICDE 2025**)*
 
-- **S$^2$CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation** [PDF](https://dl.acm.org/doi/pdf/10.1145/3774904.3792189) | [Code](https://github.com/lxd0622/S2CDR)
+- **S$^2$CDR: Smoothing-Sharpening Process Model for Cross-Domain Recommendation** [PDF](https://dl.acm.org/doi/pdf/10.1145/3774904.3792189) \| [Code](https://github.com/lxd0622/S2CDR)
 
     **Xiaodong Li**, Juwei Yue, Xinghua Zhang, Jiawei Sheng, Wenyuan Zhang, Taoyu Su, Zefeng Zhang, Tingwen Liu
 
