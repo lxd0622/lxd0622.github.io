@@ -1,6 +1,7 @@
 # 🔥 News
 - *2026.06*: 🎉 I was awarded the President Excellence Award of Chinese Academy of Sciences!
-- *2026.06*: 🎉 I was awarded the Outstanding Graduates of University of Chinese Academy of Sciences!
+- *2026.06*: 🎉 I was awarded the Outstanding Graduate of Beijing!
+- *2026.06*: 🎉 I was awarded the Outstanding Graduate of University of Chinese Academy of Sciences!
 - *2026.05*: 🎉 I have successfully defended my Ph.D. dissertation!
 - *2026.02*: 🎉 One paper has been accepted by CVPR 2026!
 - *2026.01*: 🎉 Two papers have been accepted by WWW 2026!

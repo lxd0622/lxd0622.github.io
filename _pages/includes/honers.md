@@ -1,6 +1,7 @@
 # 🎖 Honors and Awards
 - *2026.06* President Excellence Award of Chinese Academy of Sciences (Top 0.5%)
-- *2026.06* Outstanding Graduates of University of Chinese Academy of Sciences
+- *2026.06* Outstanding Graduate of Beijing
+- *2026.06* Outstanding Graduate of University of Chinese Academy of Sciences
 - *2025.10* National Scholarship for Doctoral Students
 - *2025.10* President Excellence Award of Institute of Information Engineering (Top 1%)
 - *2025.05* Pacemaker to Merit Student (Top 1%) of University of Chinese Academy of Sciences
